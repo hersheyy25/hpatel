@@ -1,5 +1,3 @@
-# hpatel
-
 # Hi, I'm Harshita!
 
 ### Exploring the intersection of technology, creativity, and innovation.
